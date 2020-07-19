@@ -1,0 +1,15 @@
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\MainWindow.g.cs
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\App.g.cs
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1_MarkupCompile.cache
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1_MarkupCompile.lref
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\bin\Debug\ex1.exe.config
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\bin\Debug\ex1.exe
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\bin\Debug\ex1.pdb
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\MainWindow.baml
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.g.resources
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.Properties.Resources.resources
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.csproj.GenerateResource.cache
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.exe
+D:\Users\liels\OneDrive\Desktop\milestone1\ex1\ex1\obj\Debug\ex1.pdb
